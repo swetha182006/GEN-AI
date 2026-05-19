@@ -80,8 +80,4 @@ streamlit run app.py
 * Interactive and user-friendly interface.
 * Sidebar navigation for different features.
 
-<br />
 
-## Contributing
-
-Contributions and suggestions are welcome through pull requests.
